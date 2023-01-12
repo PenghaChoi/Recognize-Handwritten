@@ -1,2 +1,2 @@
 # Recognize-Handwritten
-필기체 인식
+필기 숫자 인식
